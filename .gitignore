@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.idea/
+.mypy_cache/
+.pytest_cache/
+notebookFolder/
